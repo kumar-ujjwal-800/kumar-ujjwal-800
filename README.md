@@ -22,7 +22,6 @@ AI Engineer with 4+ years of experience building production-grade GenAI, LLM app
 ### 📫 How to reach me
 
 * Email: [kumarujjwal800@gmail.com](mailto:kumarujjwal800@gmail.com)
-* LinkedIn: linkedin.com/in/kumar-ujjwal800
 * GitHub: github.com/kumar-ujjwal-800
 
 ---
